@@ -24,9 +24,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['263713955768', '']
-global.prems = ['263713955768', '']
-global.allowed = ['263713955768', '']
+global.mods = ['919888280858', '']
+global.prems = ['919888280858', '']
+global.allowed = ['919888280858', '']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -70,15 +70,15 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = '𝐊𝐞𝐢𝐤𝐨 𝐕𝟓'
+global.botname = '𝙎𝙆𝙎 𝘽𝙊𝙏☮︎'
 global.premium = 'true'
-global.packname = process.env.PACKAGE || '𝘼𝙢𝙚𝙚𝙣𝙄𝙣𝙩'
-global.author = process.env.AUTHOR || '𝐂𝐚𝐥𝐜𝐢𝐅𝐞𝐫⚡'
-global.menuvid = 'https://i.imgur.com/VU2yq5G.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/mr.z_ninja\n'
-global.dygp = 'https://chat.whatsapp.com/GVxT4w51GIU3sndNPZGTnw'
-global.fgsc = 'https://github.com/AmeenRepo/KEIKO-V5'
-global.fglog = 'https://i.imgur.com/7U0dq0h.jpeg'
+global.packname = process.env.PACKAGE || '𝙎𝙆𝙎 𝘽𝙊𝙏☮︎'
+global.author = process.env.AUTHOR || 'ig|_sks_bot_'
+global.menuvid = 'https://graph.org/file/14c9e1c99f5f2b1ad693d.jpg'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/_sks_bot_\n'
+global.dygp = 'https://chat.whatsapp.com/DAD1FGg9dES0FpxtrUEheo'
+global.fgsc = 'https://sy4m.vercel.app'
+global.fglog = 'https://graph.org/file/14c9e1c99f5f2b1ad693d.jpg'
 global.thumb = fs.readFileSync('./AMEEN-SER/AMEEN.png')
 
 global.wait = '*Loading..🔃*'
